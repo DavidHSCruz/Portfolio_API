@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { Octokit } from '@octokit/rest';
+import { GithubProject } from './github.interface';
 
 @Injectable()
 export class GithubService {
@@ -12,7 +13,7 @@ export class GithubService {
     });
   }
 
-  async listRepos() {
+  async listRepos(): Promise<GithubProject[]> {
     // 1) Buscar os repositórios
     const repos = await this.octokit.paginate(
       this.octokit.repos.listForAuthenticatedUser,
@@ -61,6 +62,6 @@ export class GithubService {
       })
       .filter(Boolean);
 
-    return projetos;
+    return projetos.filter(projeto => projeto !== null);
   }
 }
