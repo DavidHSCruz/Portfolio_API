@@ -74,7 +74,7 @@ export class AgentService {
    */
   async postChat(message: string): Promise<string> {
     const text = (message || '').toLowerCase();
-    const inScope = this.allowedKeywords.some((kw) => text.includes(kw));
+    const inScope = this.allowedKeywords.some(kw => text.includes(kw));
 
     if (!inScope) {
       return 'Desculpe, só posso responder sobre o currículo e carreira do David.';

@@ -3,124 +3,84 @@
 ## Informações Pessoais
 
 **Nome:** David Henrique da Silva Cruz
-**Profissão:** Desenvolvedor Full Stack  
-**Email:** david@email.com  
-**Localização:** Brasil  
+**Nascido em:** 19/02/1996
+**Estado Civil:** Casado
+**Profissão:** Desenvolvedor Full Stack
+**Email:** david.hs.cruz@gmail.com
+**Telefone:** (41) 99949-7870
+**Localização:** Brasil
 **LinkedIn:** linkedin.com/in/david-hs-cruz
 **GitHub:** github.com/davidHSCruz
 
----
-
 ## Resumo Profissional
 
-Desenvolvedor Full Stack com experiência em criar aplicações escaláveis usando React, NestJS e tecnologias modernas. Apaixonado por resolver problemas complexos e desenvolver soluções de alta qualidade. Forte conhecimento em desenvolvimento backend e frontend, com foco em boas práticas e código limpo.
+Desenvolvedor FullStacks com experiência em HTML5, CSS3, Styled Component, TailWind CSS, JavaScript (ES6+), React (Hooks, Context API), React Native (Expo), TypeScript, Node.js, Express, NestJS, TypeORM, PostgresSQL, Supabase, consumo de APIs REST e controle de versão com Git e metodologias ágeis como Kanban, UI/UX, SEO e acessibilidade.
 
----
+Além disso, já atuei como Designer Gráfico, Motion Designer, Editor de Vídeos e Design de Games.
+
+Minha trajetória profissional começou no comércio, onde desenvolvi habilidades de liderança e gestão de equipes.
+
+Hoje estou em busca de uma transição de carreira e continuar me especializando, com novos desafios que me permitam aplicar minhas habilidades.
 
 ## Experiência Profissional
 
-### Desenvolvedor Senior - TechCorp (2022 - Presente)
-- Liderance de projetos Full Stack com React e NestJS
-- Implementação de arquiteturas escaláveis e performáticas
-- Mentoria de desenvolvedores junior e code reviews
-- Desenvolvimento de APIs RESTful e integração com bancos de dados
-- Otimização de performance em aplicações críticas
+### Líder de Setor Pleno - Cobasi (Set/2017 - Dez/2025)
+- Liderança, desenvolvimento de equipe e otimização de processos com foco em resultados (NPS).
 
-### Desenvolvedor Pleno - StartupXYZ (2020 - 2022)
-- Desenvolvimento de interfaces web responsivas com React
-- Criação de backend robusto com NestJS e PostgreSQL
-- Implementação de autenticação e autorização
-- Deploy e manutenção em cloud (AWS/GCP)
-- Trabalho em ambiente ágil com Scrum
-
-### Desenvolvedor Junior - WebAgency (2018 - 2020)
-- Desenvolvimento de sites e landing pages
-- Manutenção de código legado
-- Aprendizado de boas práticas de desenvolvimento
-- Suporte técnico e debugging
-- Colaboração com equipe de design
-
----
+### Gerente de Área Pleno - Arcos Dourados (McDonald’s) (Mar/2012 - Nov/2016)
+- Gestão de operações, atendimento ao cliente e indicadores de desempenho.
 
 ## Habilidades Técnicas
 
 ### Frontend
-- React, React Hooks, Next.js
+- React, React Hooks
 - TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, SASS/SCSS
-- Tailwind CSS, Material-UI
-- Redux, Context API
+- HTML5, CSS3
+- Tailwind CSS, Styled Components
+- Context API
 - Responsive Design
 
 ### Backend
 - NestJS, Node.js, Express
 - TypeScript, JavaScript
-- PostgreSQL, MongoDB, MySQL
-- RESTful APIs, GraphQL
-- JWT, OAuth2
-- Microserviços
+- PostgreSQL, TypeORM, Supabase
+- RESTful APIs
+- JWT, bcrypt
 
 ### DevOps & Tools
 - Docker, Docker Compose
-- GitHub, GitLab, Git
-- CI/CD (GitHub Actions, GitLab CI)
-- AWS, Google Cloud
-- Linux, Command Line
+- GitHub, Git
 
-### Outras Habilidades
-- Metodologia Ágil (Scrum, Kanban)
+### Outras Habilidades e Conhecimentos
+- Metodologia Ágil Kanban
 - Clean Code
 - Design Patterns
-- Testing (Jest, Cypress)
-- Performance Optimization
-
----
+- Testing Jest
+- Photoshop, Illustrator, Premiere, After Effects, Animate
+- Toom Boom Harmony
+- Blender (modelagem, renderização, animação)
+- Unreal Engine (desenvolvimento de jogos)
 
 ## Formação Acadêmica
 
-### Bacharelado em Ciência da Computação
-**Universidade Federal** - Concluído em 2018
-- GPA: 3.8/4.0
-- Projetos relevantes: E-commerce Full Stack, Chat em Tempo Real
+### Tecnólogo em Análise e Desenvolvimento de Sistemas
+- **Faculdade Descomplica** - Conclusão em 03/2027
 
-### Certificações
-- AWS Certified Associate Developer (2022)
-- Google Cloud Associate Cloud Engineer (2021)
-- Certificado em Advanced React Patterns (Egghead.io, 2023)
+### Cursos e Certificações
+- FULL STACK JAVASCRIPT: React + Node.js – Alura (28 h)
+- React com TypeScript – Alura (12 h)
+- HTML e CSS para Web – Alura (51 h)
+- JavaScript: Aplicações Web – Alura (60 h)
+- Explore React com JavaScript – Alura (68 h)
+- React do Zero à Maestria (hooks, router, API, projetos) – Udemy
+- React Native para devs React – Udemy (6 h)
 
----
-
-## Projetos Destacados
-
-### Portfolio Full Stack (2023)
-Plataforma pessoal de portfólio com backend NestJS e frontend React
-- Stack: React, NestJS, PostgreSQL, Docker
-- Features: Sistema de blog, contato, integração com IA Generativa
-- GitHub: github.com/david/portfolio
-
-### E-commerce Escalável (2022)
-Plataforma de e-commerce com 100k+ usuários mensais
-- Stack: React, NestJS, PostgreSQL, Redis, AWS
-- Features: Carrinho de compras, pagamento, busca avançada
-- Otimizações: Cache distribuído, lazy loading, code splitting
-
-### Chat em Tempo Real (2021)
-Aplicação de chat com suporte a múltiplos canais
-- Stack: React, Node.js, WebSockets, MongoDB
-- Features: Mensagens em tempo real, presença de usuários, notificações
-
----
 
 ## Interesses e Hobbies
 
 - Desenvolvimento de projetos pessoais
-- Contribuição a projetos open source
 - Aprendizado contínuo de novas tecnologias
 - Games (desenvolvimento e jogador)
-- Tecnologia Blockchain e Web3
-
----
-
-## Referências
-
-Disponíveis sob solicitação.
+- Música (toco instrumentos e canto na igreja)
+- Trabalho voluntário (Designer Gráfico para igreja)
+- Cuidar de pessoas (jovens da igreja)

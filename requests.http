@@ -1,0 +1,12 @@
+@baseUrl = http://localhost:3000
+
+### Github Controller - List Repos
+GET {{baseUrl}}/github/user
+
+### Agent Controller - Chat (Exemplo)
+POST {{baseUrl}}/chat
+Content-Type: application/json
+
+{
+  "message": "Quem é o David?"
+}
