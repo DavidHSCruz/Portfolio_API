@@ -1,15 +1,17 @@
 import { Injectable } from '@nestjs/common';
 import { Octokit } from '@octokit/rest';
 import { GithubProject } from './github.interface';
+import { ConfigService } from '@nestjs/config';
 
 @Injectable()
 export class GithubService {
   private octokit: Octokit;
-  private username = process.env.GITHUB_USERNAME;
+  private username: string;
 
-  constructor() {
+  constructor(private readonly config: ConfigService) {
+    this.username = this.config.get<string>('GITHUB_USERNAME') || '';
     this.octokit = new Octokit({
-      auth: process.env.GITHUB_TOKEN,
+      auth: this.config.get<string>('GITHUB_TOKEN') || '',
     });
   }
 
